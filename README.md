@@ -1,8 +1,13 @@
-# Portfólio 3D — Luis Felipe Capitani
+<div align="center">
 
-Repositório central dos meus projetos de modelagem 3D e desenvolvimento de jogos.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f5792a&height=180&section=header&text=Portf%C3%B3lio%203D&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Modelagem%203D%20e%20Desenvolvimento%20de%20Jogos&descSize=16&descAlignY=58" width="100%" alt="Portfólio 3D Header" />
 
-[![Tecnologias](https://img.shields.io/badge/stack-Blender%20%7C%20Roblox%20Studio%20%7C%20Git-1f6feb?style=flat-square)](#-tecnologias)
+  <br />
+
+  <!-- Badge resumida da stack -->
+  <img src="https://img.shields.io/badge/stack-Blender%20%7C%20Roblox%20Studio%20%7C%20Git-f5792a?style=flat-square" alt="Tecnologias" />
+
+</div>
 
 ## Sobre
 
@@ -27,5 +32,5 @@ Feito por [Luis Capitani](https://github.com/LuizCapitani)
   <a href="mailto:luisfecapitani@outlook.com.br">
     <img src="https://img.shields.io/badge/Outlook-luisfecapitani@outlook.com.br-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
   </a>
-  
+
 </div>
